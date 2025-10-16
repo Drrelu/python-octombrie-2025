@@ -1,1 +1,2 @@
 ACESTE ESTE UN FISIER TXT
+Testare git modificare fisier si adaugare
