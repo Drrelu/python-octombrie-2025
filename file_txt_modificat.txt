@@ -1,0 +1,1 @@
+Aceste este un fisier TXT pt operatiuni git
